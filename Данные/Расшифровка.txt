@@ -1,0 +1,16 @@
+Нужно парсить либо csv файлы, либо xlsk для всех наборов данных. Лучше csv
+
+___Больше 100 записей_________
+
+muzei. - нужные столбцы: "Адрес" и "Геопозиция" https://classif.gov.spb.ru/irsi/7842489089-muzei/structure_version/569/?page=1&per_page=10
+teatry. - нужные столбцы: "Адрес (ручной)" и "Координаты" https://classif.gov.spb.ru/irsi/7842489089-teatry/structure_version/649/
+restorany. - нужные столбцы: "Адрес" и "Геопозиция" https://classif.gov.spb.ru/irsi/7842489089-restorany/structure_version/570/
+informaciya-o-nacionalno-kulturnyh-obuedineniyah-nacionalno-kulturnyh-avtonomiyah-i-kazachih-obshestvah-sankt-peterburga. - нужные столбцы: "Адрес" и "Координаты" https://classif.gov.spb.ru/irsi/7842510855-informaciya-o-nacionalno-kulturnyh-obuedineniyah-nacionalno-kulturnyh-avtonomiyah-i-kazachih-obshestvah-sankt-peterburga/structure_version/310/
+Katki-i-lyzhnye-trassy-Sankt-Peterburga. - нужные столбцы: "Адрес" и "Координаты" https://classif.gov.spb.ru/irsi/7814348015-Katki-i-lyzhnye-trassy-SPbtwo/structure_version/618/
+Vnutridvorovye-sportivnye-ploshadki-Sankt-Peterburga. - нужные столбцы: "Адрес" и "Координаты" https://classif.gov.spb.ru/irsi/7814348015-Vnutridvorovye-sportivnye-ploshadki-SPb/structure_version/591/
+address_radar. - нужные столбцы: "Адрес" и "Координаты" https://classif.gov.spb.ru/irsi/7825457753-address_radar/structure_version/568/
+___Меньше 100 записей (для тестов)_________
+
+vystavochnye-zaly. - нужные столбцы: "Адрес" и "Геопозиция" https://classif.gov.spb.ru/irsi/7842489089-vystavochnye-zaly/structure_version/151/
+informaciya-o-gosudarstvennyh-kazennyh-uchrezhdeniyah-podvedomstvennyh-arhivnomu-komitetu-sankt-peterburga. - нужные столбцы: "Адрес" и "Координаты" https://classif.gov.spb.ru/irsi/7812017177-informaciya-o-gosudarstvennyh-kazennyh-uchrezhdeniyah-podvedomstvennyh-arhivnomu-komitetu-sankt-peterburga/structure_version/401/
+Spisok-specializirovannyh-sadovo-parkovyh-predpriyatij. - нужные столбцы: "Адрес" и "Координаты" https://classif.gov.spb.ru/irsi/7840424142-Spisok-specializirovannyh-sadovo-parkovyh-predpriyatij/structure_version/148/
